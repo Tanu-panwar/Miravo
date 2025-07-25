@@ -123,11 +123,11 @@ _Add your screenshots/gif here when ready._
 
 ## 📦 Setup Instructions
 
-```bash`
+```bash
 # Clone the repo
 git clone https://github.com/your-username/miravo.git
 cd miravo
-``
+
 # Setup backend
 cd backend
 npm install
@@ -137,12 +137,7 @@ npm run start:dev
 cd ../frontend
 npm install
 npm run dev
-````
-````
-Make sure Redis and MongoDB are running locally or through your preferred cloud setup.
-
----
-
+```
 ## 📣 Author
 
 **Tanu Panwar**  
@@ -153,5 +148,3 @@ Make sure Redis and MongoDB are running locally or through your preferred cloud 
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
